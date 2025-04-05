@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Taller3DCH251
+namespace Taller3DCH251.Week1
 {
     internal class Person
     {

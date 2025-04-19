@@ -8,5 +8,6 @@ namespace Taller3DCH251.Strategy
 {
     internal class Structure
     {
+        private string name;
     }
 }

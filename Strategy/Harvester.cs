@@ -8,5 +8,8 @@ namespace Taller3DCH251.Strategy
 {
     internal class Harvester : Unit
     {
+        public Harvester(string name, int life) : base(name, life)
+        {
+        }
     }
 }

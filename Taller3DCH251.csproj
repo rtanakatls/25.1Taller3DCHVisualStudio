@@ -44,6 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Menu.cs" />
+    <Compile Include="Strategy\StrategyMenu.cs" />
+    <Compile Include="Strategy\Structure.cs" />
+    <Compile Include="Strategy\Unit.cs" />
     <Compile Include="Week1\MenuWeek1.cs" />
     <Compile Include="Week1\Person.cs" />
     <Compile Include="Program.cs" />
